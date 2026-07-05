@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git add *)",
-      "Bash(git commit -m 'Pin Node 24 in deploy workflow for Astro 7 *)",
-      "Bash(git push *)"
-    ]
-  }
-}
